@@ -27,7 +27,7 @@ You can also swap the banner / GIF URLs with your own images.
 
 ## 👋 Hi, I’m Florian
 
-> Law background • Developer at 42 Marseille • Compliance & Open Source licensing
+> Law background • Student at 42 Marseille • Compliance & Open Source licensing
 
 I’m a law graduate turned developer, focused on:
 
