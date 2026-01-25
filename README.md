@@ -25,6 +25,14 @@ You can also swap the banner / GIF URLs with your own images.
 
 ---
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ## 👋 Hi, I’m Florian
 
 > Law background • Student at 42 Marseille • Compliance & Open Source licensing
