@@ -36,6 +36,9 @@ I’m a law graduate turned developer, focused on:
 - 🤝 Acting as an **interface between legal teams and engineering teams**
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:020617&height=120&section=header&text=Florian%20Monnier&fontColor=E5E7EB&fontSize=40&animation=fadeIn&fontAlignY=35" alt="Florian Monnier Banner"/>
+</p>
 
 ## 🧩 About me
 
