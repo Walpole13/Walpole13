@@ -109,16 +109,28 @@ I design systems where **requirements are explicit**, **behavior is predictable*
 <div align="center">
 <br/>
 
-```
-┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐
-│   Legal Thinking  │────▶│  System Design    │────▶│  Secure Code     │
-│                    │     │                    │     │                    │
-│  Contracts         │     │  Explicit specs    │     │  Clear errors     │
-│  Liability         │     │  Traceability      │     │  Audit trails     │
-│  Regulation        │     │  ISO mindset       │     │  Reproducibility  │
-│  Risk analysis     │     │  Documented decisions│    │  Compliance-ready │
-└──────────────────┘     └──────────────────┘     └──────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="30%">
+<h3>⚖️ Legal Thinking</h3>
+<sub>Contracts · Liability<br/>Regulation · Risk analysis</sub>
+</td>
+<td align="center" width="5%">
+<h3>→</h3>
+</td>
+<td align="center" width="30%">
+<h3>🏗️ System Design</h3>
+<sub>Explicit specs · Traceability<br/>ISO mindset · Documented decisions</sub>
+</td>
+<td align="center" width="5%">
+<h3>→</h3>
+</td>
+<td align="center" width="30%">
+<h3>🔐 Secure Code</h3>
+<sub>Clear errors · Audit trails<br/>Reproducibility · Compliance-ready</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 </div>
