@@ -35,24 +35,16 @@
 
 ## &nbsp;Who I am
 
-<table>
-<tr>
-<td width="60%">
-
 I hold a **law degree with a specialization in digital law and GDPR**. Today I study at **42 Marseille**, where I build software the way I think about legal systems — with explicit requirements, predictable behavior, and documentation that ships as part of the product.
 
 I sit at the intersection of **legal reasoning** and **systems engineering**. My background gives me fluency in contracts, liability, regulation, and risk — my daily practice is in C, Python, Linux, and infrastructure. I'm building toward roles in **LegalTech**, **DPO consulting**, and **DevSecOps**, where that dual perspective actually matters.
 
 I also run a **graphic design agency** (logos & brand identity) and serve as **president of the BDE** at 42 Marseille.
 
-</td>
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Walpole13&show_icons=true&hide_border=true&bg_color=020617&title_color=3B82F6&text_color=94A3B8&icon_color=1D4ED8&ring_color=3B82F6&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Walpole13&show_icons=true&hide_border=true&bg_color=020617&title_color=3B82F6&text_color=94A3B8&icon_color=1D4ED8&ring_color=3B82F6&include_all_commits=true&count_private=true" width="480" alt="GitHub Stats"/>
+</div>
 
 <br/>
 
