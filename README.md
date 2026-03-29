@@ -1,130 +1,240 @@
-<!--
-💡 Tip: Replace <YOUR_GITHUB_USERNAME> with your actual GitHub username.
-You can also swap the banner / GIF URLs with your own images.
--->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  Florian Monnier — GitHub Profile README                    ║ -->
+<!-- ║  Law × Code × Compliance                                    ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:020617&height=120&section=header&text=Florian%20Monnier&fontColor=E5E7EB&fontSize=40&animation=fadeIn&fontAlignY=35" alt="Florian Monnier Banner"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Legal professional & developer — working where law, code, and compliance meet.</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:1E3A5F&height=200&section=header&text=Florian%20Monnier&fontColor=94A3B8&fontSize=52&animation=fadeIn&fontAlignY=38&desc=law%20%C2%B7%20code%20%C2%B7%20compliance&descSize=18&descColor=475569&descAlignY=58" width="100%" alt="header"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Law%20%E2%86%92%20Dev-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Compliance%20(GDPR%20%2F%20ISO)-1D4ED8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Licensing-16A34A?style=for-the-badge" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/Walpole13>">
-    <img src="https://komarev.com/ghpvc/?username=Walpole13&label=Profile%20views&color=0F172A&style=flat" alt="Profile views"/>
-  </a>
-</p>
+<!-- Typing SVG — animated subtitle -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=From+courtrooms+to+codebases.;Building+where+legal+constraints+meet+technical+reality.;Compliance+by+design%2C+not+by+afterthought." alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 👋 Hi, I’m Florian
+<!-- Badges — identity at a glance -->
+<img src="https://img.shields.io/badge/Background-Law%20%2F%20Digital%20Rights-0F172A?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/School-42%20Marseille-0F172A?style=flat-square&logo=42&logoColor=white&labelColor=020617" />
+<img src="https://img.shields.io/badge/Focus-GDPR%20%C2%B7%20DevSecOps%20%C2%B7%20LegalTech-1D4ED8?style=flat-square&labelColor=020617" />
 
-> Law background • Student at 42 Marseille • Compliance & Open Source licensing
+<br/><br/>
 
-I’m a law graduate turned developer, focused on:
+<img src="https://komarev.com/ghpvc/?username=Walpole13&label=visitors&color=0F172A&style=flat-square" alt="Profile views"/>
 
-- ✅ **Compliance by design** (GDPR, ISO mindset, traceability, documentation)
-- 📚 **Open Source licensing** (MIT, GPL, AGPL, compatibility, obligations)
-- 🤝 Acting as an **interface between legal teams and engineering teams**
+</div>
 
----
+<br/>
 
-## 🧩 About me
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SECTION: WHO I AM                                  -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-- 🎓 **Law graduate** – contracts, liability, regulation, risk  
-- 💻 **Student at 42 Marseille** – project-based learning in C, algorithms, low-level concepts  
-- 🐧 **Linux enjoyer** – Debian, Fedora, servers, SSH, automation & scripting  
-- 🧭 Passionate about **turning legal constraints into technical requirements**
+## &nbsp;Who I am
 
-I like designing systems where:
+<table>
+<tr>
+<td width="60%">
 
-- requirements are **explicit**
-- behavior is **predictable**
-- logs and documentation are part of the **product**, not an afterthought
+I hold a **law degree with a specialization in digital law and GDPR**. Today I study at **42 Marseille**, where I build software the way I think about legal systems — with explicit requirements, predictable behavior, and documentation that ships as part of the product.
 
----
+I sit at the intersection of **legal reasoning** and **systems engineering**. My background gives me fluency in contracts, liability, regulation, and risk — my daily practice is in C, Python, Linux, and infrastructure. I'm building toward roles in **LegalTech**, **DPO consulting**, and **DevSecOps**, where that dual perspective actually matters.
 
-## 🧪 What I work on
+I also run a **graphic design agency** (logos & brand identity) and serve as **president of the BDE** at 42 Marseille.
 
-- **Automation & tooling**
-  - Google Apps Script + Google Sheets  
-  - Webhooks & Discord integrations (logs, notifications, audit trails)
-- **Infrastructure (for fun & learning)**
-  - Self-hosted services on Debian  
-  - Reverse proxies, SSL, small dev environments
-- **Code & learning**
-  - C (42 projects), Python 3, shell scripting  
-  - Small utilities that improve workflows or reduce human error
+</td>
+<td width="40%" align="center">
 
-<details>
-  <summary>📝 Example themes I care about</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=Walpole13&show_icons=true&hide_border=true&bg_color=020617&title_color=3B82F6&text_color=94A3B8&icon_color=1D4ED8&ring_color=3B82F6&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
 
-  - Compliance built into the workflow (not patched afterwards)  
-  - Clear error handling and logging  
-  - Reproducible procedures and documented decisions  
-  - Licensing choices that match the real-world use of the software  
+</td>
+</tr>
+</table>
 
-</details>
+<br/>
 
----
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SECTION: WHAT I BUILD                              -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-## ⚙️ Tech & Tools
+## &nbsp;What I build
 
-<p align="center">
-  <!-- Devicons: add/remove icons depending on your stack -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40" alt="Debian" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-</p>
+<div align="center">
 
-**Languages**
+<!-- Project cards as a table for visual structure -->
+<table>
+<tr>
 
-- C, Python 3, Shell scripting  
-- JavaScript (mostly for tooling & automation)  
-- HTML / CSS for simple front-ends & dashboards  
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/🔒-DevSecOps-1D4ED8?style=for-the-badge&labelColor=020617" /><br/><br/>
+<b>Kayaji — Recruitment Platform</b><br/>
+<sub>Node.js · PostgreSQL · Docker · Nginx<br/>CrowdSec WAF · CI/CD pipeline<br/>Bash monitoring → Telegram/email alerts</sub><br/><br/>
+</td>
 
-**Ecosystem**
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/🖥️-Infrastructure-16A34A?style=for-the-badge&labelColor=020617" /><br/><br/>
+<b>Walpole — Self-hosted Server</b><br/>
+<sub>Debian 12 bare metal · WireGuard VPN<br/>AdGuard Home · Vaultwarden<br/>Matrix bridges · CrowdSec · SSH hardened</sub><br/><br/>
+</td>
 
-- Linux (Debian, Fedora), SSH  
-- Git & GitHub  
-- Google Apps Script, Google Workspace (Forms, Sheets)  
-- Discord webhooks, basic REST APIs  
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/⚙️-Automation-F59E0B?style=for-the-badge&labelColor=020617" /><br/><br/>
+<b>Tooling & Workflows</b><br/>
+<sub>Google Apps Script · JWT auth<br/>Git sync scripts · Discord webhooks<br/>Automated Gmail signatures (BDE)</sub><br/><br/>
+</td>
 
----
+</tr>
+</table>
 
-## 🎯 Current focus
+</div>
 
-- Deepening **Open Source licensing** understanding (compatibility, obligations, governance)  
-- Structuring code and workflows with an **ISO-style mindset**:
-  - traceability  
-  - explicit responsibilities  
-  - repeatable procedures  
-- Getting better at **C** and **Python** through 42 projects and personal experiments  
+<br/>
 
----
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SECTION: PHILOSOPHY                                -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-## 🤝 Let’s connect
+## &nbsp;Philosophy
 
-- 💼 Open to collaborations around **compliance**, **GDPR/ISO-inspired workflows**, and **Open Source governance**  
-- 🧩 Especially interested in roles at the intersection of **law**, **software**, and **standards**  
+> *"Compliance isn't a feature you bolt on at the end — it's an architecture decision you make at the start."*
 
-> If your project needs someone who can think in both **legal constraints** and **technical realities**,  
-> that’s exactly the space I’m aiming to grow in.
+I design systems where **requirements are explicit**, **behavior is predictable**, and **logs and documentation are part of the product**, not an afterthought. My legal training taught me to think in terms of obligations, traceability, and risk — my engineering practice is where I implement those principles in code.
 
----
+<div align="center">
+<br/>
 
-<p align="center">
-  <sub>Thanks for visiting 🌐 — feel free to star, fork, or open an issue to say hi.</sub>
-</p>
+```
+┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐
+│   Legal Thinking  │────▶│  System Design    │────▶│  Secure Code     │
+│                    │     │                    │     │                    │
+│  Contracts         │     │  Explicit specs    │     │  Clear errors     │
+│  Liability         │     │  Traceability      │     │  Audit trails     │
+│  Regulation        │     │  ISO mindset       │     │  Reproducibility  │
+│  Risk analysis     │     │  Documented decisions│    │  Compliance-ready │
+└──────────────────┘     └──────────────────┘     └──────────────────┘
+```
+
+<br/>
+</div>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SECTION: TECH STACK                                -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## &nbsp;Tech & Tools
+
+<div align="center">
+
+<br/>
+
+| Domain | Technologies |
+|:--|:--|
+| **Languages** | ![C](https://img.shields.io/badge/C-020617?style=flat-square&logo=c&logoColor=A8B9CC) ![Python](https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=3776AB) ![Bash](https://img.shields.io/badge/Bash-020617?style=flat-square&logo=gnubash&logoColor=4EAA25) ![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript&logoColor=F7DF1E) |
+| **Infrastructure** | ![Debian](https://img.shields.io/badge/Debian-020617?style=flat-square&logo=debian&logoColor=A81D33) ![Docker](https://img.shields.io/badge/Docker-020617?style=flat-square&logo=docker&logoColor=2496ED) ![Nginx](https://img.shields.io/badge/Nginx-020617?style=flat-square&logo=nginx&logoColor=009639) ![WireGuard](https://img.shields.io/badge/WireGuard-020617?style=flat-square&logo=wireguard&logoColor=88171A) |
+| **Security** | ![CrowdSec](https://img.shields.io/badge/CrowdSec-020617?style=flat-square) ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-020617?style=flat-square) ![AdGuard](https://img.shields.io/badge/AdGuard-020617?style=flat-square&logo=adguard&logoColor=68BC71) |
+| **Tooling** | ![Git](https://img.shields.io/badge/Git-020617?style=flat-square&logo=git&logoColor=F05032) ![VS Code](https://img.shields.io/badge/VS%20Code-020617?style=flat-square&logo=visualstudiocode&logoColor=007ACC) ![Google Apps Script](https://img.shields.io/badge/Apps%20Script-020617?style=flat-square&logo=google&logoColor=4285F4) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=4169E1) ![SQLite](https://img.shields.io/badge/SQLite-020617?style=flat-square&logo=sqlite&logoColor=003B57) |
+
+<br/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SECTION: LANGUAGES & ACTIVITY                      -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## &nbsp;Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walpole13&layout=compact&hide_border=true&bg_color=020617&title_color=3B82F6&text_color=94A3B8&langs_count=8" width="420" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Walpole13&hide_border=true&background=020617&ring=3B82F6&fire=F59E0B&currStreakLabel=94A3B8&sideLabels=94A3B8&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=475569" width="520" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SECTION: ACTIVITY GRAPH                            -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Walpole13&bg_color=020617&color=94A3B8&line=3B82F6&point=1D4ED8&area=true&area_color=1E3A5F&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SECTION: CURRENT FOCUS                             -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## &nbsp;Current focus
+
+<div align="center">
+
+<table>
+<tr>
+<td>🎓 <b>42 Marseille</b> — C, algorithms, low-level</td>
+<td>██████████░░ 85%</td>
+</tr>
+<tr>
+<td>📜 <b>Open Source licensing</b> — compatibility, governance</td>
+<td>████████░░░░ 70%</td>
+</tr>
+<tr>
+<td>🔐 <b>DevSecOps</b> — pipeline hardening, infra security</td>
+<td>███████░░░░░ 60%</td>
+</tr>
+<tr>
+<td>🛡️ <b>DPO / GDPR certification</b> — professional path</td>
+<td>█████░░░░░░░ 45%</td>
+</tr>
+<tr>
+<td>⚖️ <b>LegalTech</b> — product exploration</td>
+<td>███░░░░░░░░░ 25%</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SECTION: CONNECT                                   -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## &nbsp;Let's connect
+
+<div align="center">
+
+Open to collaborations around **compliance engineering**, **GDPR/ISO-driven workflows**, and **open source governance**. If your project needs someone fluent in both legal constraints and technical systems — let's talk.
+
+<br/>
+
+<a href="https://linkedin.com/in/florian-monnier">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:contact@fmonnier.fr">
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=maildotru&logoColor=3B82F6" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Walpole13">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=E5E7EB" />
+</a>
+
+<br/><br/>
+
+</div>
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:1E3A5F&height=120&section=footer" width="100%" alt="footer"/>
