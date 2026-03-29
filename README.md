@@ -41,11 +41,6 @@ I sit at the intersection of **legal reasoning** and **systems engineering**. My
 
 I also run a **graphic design agency** (logos & brand identity) and serve as **president of the BDE** at 42 Marseille.
 
-<div align="center">
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Walpole13&show_icons=true&hide_border=true&bg_color=020617&title_color=3B82F6&text_color=94A3B8&icon_color=1D4ED8&ring_color=3B82F6&include_all_commits=true&count_private=true" width="480" alt="GitHub Stats"/>
-</div>
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════ -->
