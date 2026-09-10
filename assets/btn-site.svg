@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 257 46" width="257" height="46" role="img" aria-label="Parler d&#x27;un projet">
+<rect x="1" y="1" width="256" height="44" rx="23" fill="#4CC2FF" stroke="#4CC2FF"/>
+<g transform="translate(22.0,13.0) scale(0.833)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></g>
+<text x="52" y="28.5" font-family="'Segoe UI Variable','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">Parler d&#x27;un projet</text>
+<g transform="translate(217.6,15.0) scale(0.667)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></g>
+</svg>
