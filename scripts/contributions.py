@@ -39,20 +39,20 @@ def render(counts, out):
     start-=dt.timedelta(days=(start.weekday()+1)%7)          # aligne sur un dimanche, comme GitHub
     days=[start+dt.timedelta(days=i) for i in range((today-start).days+1)]
     weeks=(len(days)+6)//7
-    cell,gap=16,4; left,top=64,44; W=1200; H=top+7*(cell+gap)+58
+    cell,gap=16,4; left,top=64,74; W=1200; H=top+7*(cell+gap)+58
     mx=max([counts.get(d.isoformat(),0) for d in days]+[1]); total=sum(counts.get(d.isoformat(),0) for d in days)
     grid_w=weeks*(cell+gap)-gap; left=(W-grid_w)//2+16
     s=[f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="{total} contributions sur un an">',
        f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="8" fill="{BG}" stroke="{BORDER}"/>',
-       (f'<text x="{left}" y="28" font-family="{SANS}" font-size="14" font-weight="600" fill="{TXT}">{total} contributions sur les douze derniers mois</text>' if counts else
-        f'<text x="{left}" y="28" font-family="{SANS}" font-size="14" font-weight="600" fill="{TXT}">Calendrier des contributions</text>'),
-       f'<text x="{W-40}" y="28" text-anchor="end" font-family="{SANS}" font-size="11.5" fill="{MUT}">{"mis à jour le "+today.strftime("%d/%m/%Y") if counts else "mise à jour automatique chaque nuit"}</text>']
+       (f'<text x="{left}" y="32" font-family="{SANS}" font-size="14" font-weight="600" fill="{TXT}">{total} contributions sur les douze derniers mois</text>' if counts else
+        f'<text x="{left}" y="32" font-family="{SANS}" font-size="14" font-weight="600" fill="{TXT}">Calendrier des contributions</text>'),
+       f'<text x="{left}" y="{H-12}" font-family="{SANS}" font-size="11.5" fill="{MUT}">{"mis à jour le "+today.strftime("%d/%m/%Y") if counts else "mise à jour automatique chaque nuit"}</text>']
     for wd,lab in DAYS.items():
         s.append(f'<text x="{left-10}" y="{top+wd*(cell+gap)+cell-4}" text-anchor="end" font-family="{SANS}" font-size="11" fill="{MUT}">{lab}</text>')
     seen=set()
     for i,d in enumerate(days):
         w,r=divmod((d-start).days,7); x=left+w*(cell+gap); y=top+r*(cell+gap)
-        if d.day<=7 and (d.year,d.month) not in seen and w<weeks-1:
+        if d.day<=7 and (d.year,d.month) not in seen and 0<w<weeks-1:
             seen.add((d.year,d.month)); s.append(f'<text x="{x}" y="{top-10}" font-family="{SANS}" font-size="11" fill="{MUT}">{MONTHS[d.month-1]}</text>')
         n=counts.get(d.isoformat(),0); c=LEVELS[level(n,mx)]
         s.append(f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="3" fill="{c}"><title>{d.strftime("%d/%m/%Y")} : {n} contribution{"s" if n>1 else ""}</title>'
