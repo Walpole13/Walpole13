@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 224" width="1200" height="224" role="img" aria-label="Ce que nous construisons">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#131922"/></linearGradient>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0F6CBD"/><stop offset=".55" stop-color="#7FBA00"/><stop offset="1" stop-color="#FFB900"/></linearGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
+  <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="rgba(0,0,0,.35)"/></filter>
+</defs>
+
+<g ><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.067;1" dur="0.75s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.16 1 .3 1"/>
+<rect x="0.0" y="12" width="372" height="200" rx="8" fill="#161B22" stroke="#2A313C" filter="url(#shadow)"/>
+<circle cx="44.0" cy="56" r="22" fill="#12283A"/>
+<g transform="translate(32.0,44.0) scale(1.000)" fill="none" stroke="#4CC2FF" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></g>
+<text x="24.0" y="112" font-family="'Segoe UI Variable','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#F0F3F6">Applications métiers</text>
+<text x="24.0" y="138" font-family="'Segoe UI Variable','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#B6BEC9">Outils internes et portails sur mesure.</text>
+<text x="24.0" y="158" font-family="'Segoe UI Variable','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#B6BEC9">FastAPI, React, PostgreSQL, Docker.</text>
+<text x="24.0" y="178" font-family="'Segoe UI Variable','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#B6BEC9">Authentification, rôles, journalisation.</text>
+</g>
+<g ><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.195;1" dur="0.87s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.16 1 .3 1"/>
+<rect x="414.0" y="12" width="372" height="200" rx="8" fill="#161B22" stroke="#2A313C" filter="url(#shadow)"/>
+<circle cx="458.0" cy="56" r="22" fill="#12283A"/>
+<g transform="translate(446.0,44.0) scale(1.000)" fill="none" stroke="#4CC2FF" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20a8 8 0 1 0 0-16 8 8 0 0 0 0 16Z"/><path d="M12 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"/><path d="M12 2v2"/><path d="M12 22v-2"/><path d="m17 20.66-1-1.73"/><path d="M11 10.27 7 3.34"/><path d="m20.66 17-1.73-1"/><path d="m3.34 7 1.73 1"/><path d="M14 12h8"/><path d="M2 12h2"/><path d="m20.66 7-1.73 1"/><path d="m3.34 17 1.73-1"/><path d="m17 3.34-1 1.73"/><path d="m11 13.73-4 6.93"/></g>
+<text x="438.0" y="112" font-family="'Segoe UI Variable','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#F0F3F6">Automatisation</text>
+<text x="438.0" y="138" font-family="'Segoe UI Variable','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#B6BEC9">Python, Bash, API REST.</text>
+<text x="438.0" y="158" font-family="'Segoe UI Variable','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#B6BEC9">Génération documentaire, synchronisations,</text>
+<text x="438.0" y="178" font-family="'Segoe UI Variable','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#B6BEC9">traitements par lots, alertes.</text>
+</g>
+<g ><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.293;1" dur="0.99s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.16 1 .3 1"/>
+<rect x="828.0" y="12" width="372" height="200" rx="8" fill="#161B22" stroke="#2A313C" filter="url(#shadow)"/>
+<circle cx="872.0" cy="56" r="22" fill="#12283A"/>
+<g transform="translate(860.0,44.0) scale(1.000)" fill="none" stroke="#4CC2FF" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="8" rx="2"/><rect x="2" y="14" width="20" height="8" rx="2"/><path d="M6 6h.01"/><path d="M6 18h.01"/></g>
+<text x="852.0" y="112" font-family="'Segoe UI Variable','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#F0F3F6">Infrastructure et déploiement</text>
+<text x="852.0" y="138" font-family="'Segoe UI Variable','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#B6BEC9">Serveurs Linux, Docker, Nginx, VPN.</text>
+<text x="852.0" y="158" font-family="'Segoe UI Variable','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#B6BEC9">Durcissement, sauvegardes, supervision.</text>
+<text x="852.0" y="178" font-family="'Segoe UI Variable','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#B6BEC9">Migration vers l&#x27;open source européen.</text>
+</g>
+</svg>

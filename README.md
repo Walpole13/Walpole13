@@ -1,281 +1,139 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  Florian Monnier — GitHub Profile README                    ║ -->
-<!-- ║  Droit × Code × Automatisation                              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- Florian Monnier. Profil GitHub. Visuels : /assets (SVG versionnés, générés par script). -->
 
-<div align="center">
+<img src="assets/header.svg" width="100%" alt="Florian Monnier. Je développe ce que vos logiciels ne font pas."/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:1E3A5F&height=200&section=header&text=Florian%20Monnier&fontColor=94A3B8&fontSize=52&animation=fadeIn&fontAlignY=38&desc=droit%20%C2%B7%20code%20%C2%B7%20automatisation&descSize=18&descColor=475569&descAlignY=58" width="100%" alt="header"/>
+<img src="assets/pillars.svg" width="100%" alt="Droit, code, automatisation"/>
 
 <br/>
 
-<!-- Typing SVG — sous-titre animé -->
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=80&lines=Du+droit+au+code.;Je+d%C3%A9veloppe+ce+que+vos+logiciels+ne+font+pas.;Moins+de+t%C3%A2ches+r%C3%A9p%C3%A9titives.+Moins+d%27erreurs." alt="Typing SVG" />
-</a>
+## <img src="assets/icon-user.svg" width="30" align="top" alt=""/>&nbsp;Qui je suis
+
+Je développe des logiciels sur mesure et j'automatise des processus : applications métiers, sites web, scripts et intégrations qui font disparaître les tâches répétitives.
+
+Diplômé de la Faculté de droit et de science politique d'Aix-Marseille Université, spécialisation droit du numérique et compliance. Formé au développement à 42 Marseille. Quatre ans comme clerc en étude de commissaire de justice.
+
+Je connais le métier de l'intérieur : les délais, la traçabilité, le secret professionnel. Je traite la confidentialité et la conservation des données comme des contraintes de conception, dès la première ligne de spécification.
 
 <br/>
 
-<!-- Badges — identité en un coup d'œil -->
-<img src="https://img.shields.io/badge/Fondateur-Gavroche%20Solutions-1D4ED8?style=flat-square&labelColor=020617" />
-<img src="https://img.shields.io/badge/Formation-Droit%20du%20num%C3%A9rique%20%2F%20RGPD-0F172A?style=flat-square&labelColor=020617" />
-<img src="https://img.shields.io/badge/%C3%89cole-42%20Marseille-0F172A?style=flat-square&logo=42&logoColor=white&labelColor=020617" />
-<img src="https://img.shields.io/badge/Focus-D%C3%A9veloppement%20sur%20mesure%20%C2%B7%20Automatisation-1D4ED8?style=flat-square&labelColor=020617" />
+## <img src="assets/icon-landmark.svg" width="30" align="top" alt=""/>&nbsp;Gavroche Solutions
 
-<br/><br/>
+**[gavrochesolutions.fr](https://gavrochesolutions.fr)** : développement et automatisation sur mesure, région Aix-Marseille.
 
-<img src="https://komarev.com/ghpvc/?username=Walpole13&label=visiteurs&color=0F172A&style=flat-square" alt="Vues du profil"/>
+Le point de départ est toujours le même : quelqu'un passe deux heures par semaine à recopier des données d'un outil vers un autre, ou à reconstruire le même document à la main. Le livrable, c'est le temps récupéré.
 
-</div>
+<img src="assets/methode.svg" width="100%" alt="Observer, construire, mesurer"/>
 
-<br/>
+Nous intervenons en priorité auprès des professions du droit : avocats, notaires, commissaires de justice, mandataires judiciaires. Un secteur où le secret professionnel, les délais de forclusion et la traçabilité ne sont pas des options de configuration.
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!-- SECTION : QUI JE SUIS                              -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## &nbsp;Qui je suis
-
-Je développe des logiciels sur mesure et j'automatise des processus. Concrètement : des **sites web**, des **applications métiers**, des **scripts et intégrations** qui font disparaître les tâches répétitives.
-
-Le point de départ est toujours le même — quelqu'un passe deux heures par semaine à recopier des données d'un outil vers un autre, ou à reconstruire le même document à la main. Le livrable, c'est le temps récupéré.
-
-J'ai un **diplôme de droit, spécialisation droit du numérique et RGPD**, et je suis étudiant à **42 Marseille**. Cette double formation n'est pas décorative : elle me sert à traiter la confidentialité, la traçabilité et la conservation des données comme des contraintes de conception, dès la première ligne de spec.
+**Reprendre la main sur votre infrastructure.** Nous accompagnons la transition vers Linux et les solutions open source françaises et européennes : postes de travail Linux, Nextcloud pour le stockage et le partage, OnlyOffice ou Collabora pour la bureautique, Mailcow ou Zimbra pour la messagerie, CRM et outils de gestion open source. Hébergement sur site, chez un hébergeur français ou européen, ou sur un serveur dédié que nous administrons. Vos données restent sous droit européen, conformes au RGPD.
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!-- SECTION : GAVROCHE SOLUTIONS                       -->
-<!-- ═══════════════════════════════════════════════════ -->
+## <img src="assets/icon-search.svg" width="30" align="top" alt=""/>&nbsp;Vous vous reconnaissez ?
 
-## &nbsp;Gavroche Solutions
+Si vous lisez cette page, vous avez probablement cherché une réponse à l'une de ces situations.
 
-**[gavrochesolutions.fr](https://gavrochesolutions.fr)** — développement et automatisation sur mesure, région Aix-Marseille.
+**Windows 10 n'est plus maintenu depuis le 14 octobre 2025.** Vos postes tournent encore dessus, Windows 11 refuse une partie des machines et renouveler le parc coûte cher. Nous migrons vos postes vers Linux, avec la bureautique et la messagerie qui vont avec. Les machines existantes repartent pour plusieurs années.
 
-<div align="center">
-<br/>
+**Vos données sont chez un hébergeur soumis au droit américain.** En juin 2025, devant une commission d'enquête du Sénat, Microsoft France a reconnu ne pas pouvoir garantir que des données hébergées en France ne seraient jamais transmises aux autorités américaines. Pour une étude ou un cabinet tenu au secret professionnel, la question ne se pose plus. Nous rapatrions fichiers, agendas et messagerie sur Nextcloud et des solutions open source, hébergés sur site ou chez un hébergeur français ou européen.
 
-<table>
-<tr>
-<td align="center" width="33%">
-<h3>🔎 Observer</h3>
-<sub>Audit du poste de travail.<br/>Cartographier ce qui est<br/>répétitif ou source d'erreurs.</sub>
-</td>
-<td align="center" width="33%">
-<h3>⚙️ Construire</h3>
-<sub>Déployer un outil existant<br/>quand il suffit. Développer<br/>quand il n'existe pas.</sub>
-</td>
-<td align="center" width="33%">
-<h3>📉 Mesurer</h3>
-<sub>Temps de traitement<br/>avant / après. Sans gain<br/>mesurable, pas de mission.</sub>
-</td>
-</tr>
-</table>
+**La facturation électronique devient obligatoire.** Depuis le 1er septembre 2026, toutes les entreprises doivent pouvoir recevoir des factures électroniques ; l'obligation d'émission s'étend aux PME en septembre 2027. Nous connectons votre logiciel de gestion à une plateforme agréée et automatisons la génération et l'envoi.
 
-<br/>
-</div>
+**Les rançongiciels visent les cabinets et les études.** Les professions du droit concentrent des données sensibles et des délais impératifs : une étude paralysée trois jours perd des actes. Nous durcissons vos serveurs, mettons en place des sauvegardes testées et un accès distant par VPN.
 
-Une spécialisation : les **professions du droit** — avocats, notaires, commissaires de justice, mandataires judiciaires. Un secteur où le secret professionnel, les délais de forclusion et la traçabilité ne sont pas des options de configuration.
+**Vos équipes recopient des données d'un logiciel à l'autre.** Le logiciel métier ne fait pas tout ; les tableurs et le copier-coller comblent les trous, avec les erreurs qui vont avec. Nous développons l'outil qui manque et l'intégrons à l'existant. Synergie Tools est né comme ça.
 
-> **Je développe des outils. Je ne délivre pas de conseil juridique.** Le diplôme explique pourquoi je comprends les contraintes du métier — il ne constitue pas une offre de prestation juridique.
+**NIS 2 et le RGPD élargissent vos obligations.** La transposition de la directive NIS 2 étend les exigences de cybersécurité à des milliers d'entités, et la CNIL contrôle. Nous concevons avec la conformité dès le départ : journaux, traçabilité, conservation. C'est le sens de ma formation en droit du numérique.
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!-- SECTION : CE QUE JE CONSTRUIS                      -->
-<!-- ═══════════════════════════════════════════════════ -->
+## <img src="assets/icon-briefcase.svg" width="30" align="top" alt=""/>&nbsp;Études de cas
 
-## &nbsp;Ce que je construis
+<a href="https://www.synergie-huissiers-13.fr/"><img src="assets/casestudy-synergie.svg" width="100%" alt="Synergie Tools, pour Synergie Huissiers 13, l'étude de commissaires de justice la plus importante de la Région Sud : boîte à outils web interne. Outils PDF, annuaire clients, compétence territoriale, relances, administration. FastAPI + React, auto-hébergé."/></a>
 
-<div align="center">
+<a href="https://www.leolagrange.org/"><img src="assets/casestudy-leolagrange.svg" width="100%" alt="Outil de recrutement pour Léo Lagrange, en production : gestion des candidatures, entretiens et planning, tableau de bord. Développé en collaboration avec Kayaji."/></a>
 
-<table>
-<tr>
-
-<td align="center" width="33%">
-<br/>
-<img src="https://img.shields.io/badge/🧩-Applications%20m%C3%A9tiers-1D4ED8?style=for-the-badge&labelColor=020617" /><br/><br/>
-<b>Outils internes & web</b><br/>
-<sub>Interfaces sur mesure · portails<br/>Node.js · PostgreSQL · Docker<br/>Authentification · rôles · journalisation</sub><br/><br/>
-</td>
-
-<td align="center" width="33%">
-<br/>
-<img src="https://img.shields.io/badge/⚙️-Automatisation-F59E0B?style=for-the-badge&labelColor=020617" /><br/><br/>
-<b>Traitements & intégrations</b><br/>
-<sub>Python · Bash · API REST<br/>Génération documentaire · synchronisations<br/>Traitements par lots · alertes</sub><br/><br/>
-</td>
-
-<td align="center" width="33%">
-<br/>
-<img src="https://img.shields.io/badge/🖥️-Infrastructure-16A34A?style=for-the-badge&labelColor=020617" /><br/><br/>
-<b>Walpole — serveur autohébergé</b><br/>
-<sub>Debian 12 bare metal · WireGuard<br/>AdGuard Home · Vaultwarden<br/>CrowdSec · SSH durci</sub><br/><br/>
-</td>
-
-</tr>
-</table>
-
-</div>
+<sub>L'essentiel de notre travail est réalisé sous contrat, dans des dépôts privés. Code et démonstrations présentés en entretien.</sub>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!-- SECTION : MÉTHODE                                  -->
-<!-- ═══════════════════════════════════════════════════ -->
+## <img src="assets/icon-blocks.svg" width="30" align="top" alt=""/>&nbsp;Ce que nous construisons
 
-## &nbsp;Méthode
+<img src="assets/offer.svg" width="100%" alt="Applications métiers, automatisation, infrastructure et déploiement"/>
 
-> *« La conformité n'est pas une fonctionnalité qu'on ajoute à la fin — c'est une décision d'architecture qu'on prend au début. »*
+<br/>
 
-Je conçois des systèmes où les **exigences sont explicites**, le **comportement est prévisible**, et où les **logs et la documentation font partie du livrable**. Le droit m'a appris à raisonner en obligations, en traçabilité et en risque ; le développement, c'est là où ça devient du code.
+## <img src="assets/icon-compass.svg" width="30" align="top" alt=""/>&nbsp;Méthode
+
+> *« La conformité n'est pas une fonctionnalité qu'on ajoute à la fin. C'est une décision d'architecture qu'on prend au début. »*
+
+Je conçois des systèmes où les exigences sont explicites, le comportement prévisible, et où les journaux et la documentation font partie du livrable. Le droit m'a appris à raisonner en obligations, en traçabilité et en risque. Le développement, c'est là où ça devient du code.
 
 Appliqué à un cabinet, ça donne une règle non négociable : **les données du client restent chez le client.** Le confort n'achète jamais une dérogation à la confidentialité.
 
-<div align="center">
-<br/>
-
-<table>
-<tr>
-<td align="center" width="30%">
-<h3>⚖️ Raisonnement juridique</h3>
-<sub>Obligations · Responsabilité<br/>Réglementation · Analyse de risque</sub>
-</td>
-<td align="center" width="5%">
-<h3>→</h3>
-</td>
-<td align="center" width="30%">
-<h3>🏗️ Conception</h3>
-<sub>Specs explicites · Traçabilité<br/>Décisions documentées</sub>
-</td>
-<td align="center" width="5%">
-<h3>→</h3>
-</td>
-<td align="center" width="30%">
-<h3>🚀 Mise en production</h3>
-<sub>Erreurs lisibles · Journaux d'audit<br/>Reproductibilité · Gain mesuré</sub>
-</td>
-</tr>
-</table>
+<img src="assets/pipeline.svg" width="100%" alt="Raisonnement juridique, conception, mise en production"/>
 
 <br/>
-</div>
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!-- SECTION : STACK                                    -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## &nbsp;Technologies
-
-<div align="center">
-
-<br/>
+## <img src="assets/icon-layers.svg" width="30" align="top" alt=""/>&nbsp;Technologies
 
 | Domaine | Technologies |
 |:--|:--|
-| **Langages** | ![C](https://img.shields.io/badge/C-020617?style=flat-square&logo=c&logoColor=A8B9CC) ![Python](https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=3776AB) ![Bash](https://img.shields.io/badge/Bash-020617?style=flat-square&logo=gnubash&logoColor=4EAA25) ![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript&logoColor=F7DF1E) ![SQL](https://img.shields.io/badge/SQL-020617?style=flat-square&logo=postgresql&logoColor=4169E1) |
-| **Web & applications** | ![Node.js](https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs&logoColor=339933) ![Nginx](https://img.shields.io/badge/Nginx-020617?style=flat-square&logo=nginx&logoColor=009639) ![Docker](https://img.shields.io/badge/Docker-020617?style=flat-square&logo=docker&logoColor=2496ED) |
-| **Bases de données** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=4169E1) ![SQLite](https://img.shields.io/badge/SQLite-020617?style=flat-square&logo=sqlite&logoColor=003B57) |
-| **Intégrations & API** | ![REST](https://img.shields.io/badge/API%20REST-020617?style=flat-square) ![Webhooks](https://img.shields.io/badge/Webhooks-020617?style=flat-square) ![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-020617?style=flat-square&logo=microsoft&logoColor=00A4EF) ![Apps Script](https://img.shields.io/badge/Apps%20Script-020617?style=flat-square&logo=google&logoColor=4285F4) |
-| **Infrastructure** | ![Debian](https://img.shields.io/badge/Debian-020617?style=flat-square&logo=debian&logoColor=A81D33) ![WireGuard](https://img.shields.io/badge/WireGuard-020617?style=flat-square&logo=wireguard&logoColor=88171A) ![Linux](https://img.shields.io/badge/Linux-020617?style=flat-square&logo=linux&logoColor=FCC624) |
-| **Sécurité** | ![CrowdSec](https://img.shields.io/badge/CrowdSec-020617?style=flat-square) ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-020617?style=flat-square) ![AdGuard](https://img.shields.io/badge/AdGuard-020617?style=flat-square&logo=adguard&logoColor=68BC71) ![DMARC](https://img.shields.io/badge/SPF%20·%20DKIM%20·%20DMARC-020617?style=flat-square) |
-| **Outils** | ![Git](https://img.shields.io/badge/Git-020617?style=flat-square&logo=git&logoColor=F05032) ![VS Code](https://img.shields.io/badge/VS%20Code-020617?style=flat-square&logo=visualstudiocode&logoColor=007ACC) |
+| **Langages** | <img src="https://cdn.simpleicons.org/python/4CC2FF" height="16" alt=""/>&nbsp;Python &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/typescript/4CC2FF" height="16" alt=""/>&nbsp;TypeScript &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/javascript/4CC2FF" height="16" alt=""/>&nbsp;JavaScript &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/c/4CC2FF" height="16" alt=""/>&nbsp;C &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/gnubash/4CC2FF" height="16" alt=""/>&nbsp;Bash &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/postgresql/4CC2FF" height="16" alt=""/>&nbsp;SQL |
+| **Back-end** | <img src="https://cdn.simpleicons.org/fastapi/4CC2FF" height="16" alt=""/>&nbsp;FastAPI &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/sqlalchemy/4CC2FF" height="16" alt=""/>&nbsp;SQLAlchemy &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/nodedotjs/4CC2FF" height="16" alt=""/>&nbsp;Node.js &nbsp;·&nbsp; API REST &nbsp;·&nbsp; webhooks |
+| **Front-end** | <img src="https://cdn.simpleicons.org/react/4CC2FF" height="16" alt=""/>&nbsp;React &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/vite/4CC2FF" height="16" alt=""/>&nbsp;Vite &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/tailwindcss/4CC2FF" height="16" alt=""/>&nbsp;Tailwind CSS |
+| **Données** | <img src="https://cdn.simpleicons.org/postgresql/4CC2FF" height="16" alt=""/>&nbsp;PostgreSQL &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/sqlite/4CC2FF" height="16" alt=""/>&nbsp;SQLite |
+| **Infrastructure** | <img src="https://cdn.simpleicons.org/debian/4CC2FF" height="16" alt=""/>&nbsp;Debian &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/linux/4CC2FF" height="16" alt=""/>&nbsp;Linux &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/docker/4CC2FF" height="16" alt=""/>&nbsp;Docker &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/nginx/4CC2FF" height="16" alt=""/>&nbsp;Nginx &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/wireguard/4CC2FF" height="16" alt=""/>&nbsp;WireGuard |
+| **Sécurité** | <img src="https://cdn.simpleicons.org/openssh/4CC2FF" height="16" alt=""/>&nbsp;Durcissement SSH &nbsp;·&nbsp; CrowdSec &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/vaultwarden/4CC2FF" height="16" alt=""/>&nbsp;Vaultwarden &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/adguard/4CC2FF" height="16" alt=""/>&nbsp;AdGuard Home &nbsp;·&nbsp; SPF / DKIM / DMARC |
+| **Open source souverain** | <img src="https://cdn.simpleicons.org/nextcloud/4CC2FF" height="16" alt=""/>&nbsp;Nextcloud &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/onlyoffice/4CC2FF" height="16" alt=""/>&nbsp;OnlyOffice &nbsp;·&nbsp; Collabora &nbsp;·&nbsp; Mailcow / Zimbra &nbsp;·&nbsp; CRM et outils de gestion &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/linux/4CC2FF" height="16" alt=""/>&nbsp;Postes de travail Linux |
+| **Intégrations** | Microsoft Graph &nbsp;·&nbsp; Google Apps Script |
+| **Outils** | <img src="https://cdn.simpleicons.org/git/4CC2FF" height="16" alt=""/>&nbsp;Git &nbsp;·&nbsp; VS Code |
 
 <br/>
 
-</div>
+## <img src="assets/icon-activity.svg" width="30" align="top" alt=""/>&nbsp;Activité
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!-- SECTION : ACTIVITÉ                                 -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## &nbsp;Activité
+<!-- Calendrier rendu par scripts/contributions.py via .github/workflows/contributions.yml (chaque nuit -->
+<!-- et à chaque fusion sur main). Les dépôts privés comptent si l'option est activée sur le profil : -->
+<!-- Settings → Profile → Contributions & Activity → « Include private contributions ».             -->
+<img src="assets/contributions.svg" width="100%" alt="Calendrier des contributions sur douze mois"/>
 
 <div align="center">
+<br/>
+<img src="https://streak-stats.demolab.com?user=Walpole13&background=161B22&border=2A313C&ring=4CC2FF&fire=FFD166&currStreakLabel=B6BEC9&sideLabels=B6BEC9&currStreakNum=F0F3F6&sideNums=F0F3F6&dates=8B949E&locale=fr&border_radius=8" width="520" alt="Série de contributions"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walpole13&layout=compact&hide_border=true&bg_color=020617&title_color=3B82F6&text_color=94A3B8&langs_count=8" width="420" alt="Langages principaux"/>
+<!-- Statistiques incluant les dépôts privés : .github/workflows/metrics.yml (désactivé tant que la
+     variable METRICS_ENABLED n'est pas posée). Une fois activé, décommenter :
+<div align="center">
+<img src="assets/metrics-langages.svg" width="46%" align="top" alt="Langages les plus utilisés"/>
+&nbsp;
+<img src="assets/metrics.svg" width="46%" align="top" alt="Vue d'ensemble de l'activité"/>
+</div>
+-->
+
+<br/>
+
+## <img src="assets/icon-zap.svg" width="30" align="top" alt=""/>&nbsp;En ce moment
+
+<img src="assets/now.svg" width="100%" alt="Applications métiers pour les professions du droit : en cours. Souveraineté numérique : nouvelle offre. Automatisation de processus : offre. Nouvelles missions : disponible."/>
+
+<br/>
+
+## <img src="assets/icon-mail.svg" width="30" align="top" alt=""/>&nbsp;Me contacter
+
+Vous avez une tâche que quelqu'un refait à la main toutes les semaines ? Parlons-en.
+
+<a href="https://gavrochesolutions.fr"><img src="assets/btn-site.svg" height="46" alt="Parler d'un projet"/></a>&nbsp;
+<a href="https://linkedin.com/in/florian-monnier"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:contact@gavrochesolutions.fr"><img src="assets/btn-email.svg" height="46" alt="contact@gavrochesolutions.fr"/></a>&nbsp;
+<a href="https://github.com/Walpole13"><img src="assets/btn-github.svg" height="46" alt="GitHub"/></a>
+
+<br/>
+
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fgavrochesolutions.fr&style=flat-square&labelColor=161B22&color=107C10&label=gavrochesolutions.fr&up_message=en%20ligne&down_message=hors%20ligne" alt="État du site gavrochesolutions.fr"/>
 
 <br/><br/>
 
-<!-- NOTE : ancien hôte herokuapp mort — projet migré sur streak-stats.demolab.com -->
-<img src="https://streak-stats.demolab.com?user=Walpole13&hide_border=true&background=020617&ring=3B82F6&fire=F59E0B&currStreakLabel=94A3B8&sideLabels=94A3B8&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=475569&locale=fr" width="520" alt="Série de contributions"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Walpole13&bg_color=020617&color=94A3B8&line=3B82F6&point=1D4ED8&area=true&area_color=1E3A5F&hide_border=true&custom_title=Activit%C3%A9%20de%20contribution" width="95%" alt="Graphique d'activité"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!-- SECTION : EN CE MOMENT                             -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## &nbsp;En ce moment
-
-<div align="center">
-
-<table>
-<tr>
-<td>🏛️ <b>Gavroche Solutions</b> — entretiens terrain, cadrage de l'offre</td>
-<td>█████████░░░ 75%</td>
-</tr>
-<tr>
-<td>🎓 <b>42 Marseille</b> — C, algorithmique, bas niveau</td>
-<td>██████████░░ 85%</td>
-</tr>
-<tr>
-<td>🧩 <b>Applications métiers</b> — développement web sur mesure</td>
-<td>████████░░░░ 65%</td>
-</tr>
-<tr>
-<td>🛡️ <b>Certification DPO / RGPD</b> — parcours professionnel</td>
-<td>█████░░░░░░░ 45%</td>
-</tr>
-<tr>
-<td>🔐 <b>DevSecOps</b> — durcissement, sécurité d'infrastructure</td>
-<td>███████░░░░░ 60%</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!-- SECTION : CONTACT                                  -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## &nbsp;Me contacter
-
-<div align="center">
-
-Ouvert aux collaborations autour du **développement sur mesure**, de l'**automatisation de processus** et de la **gouvernance open source**. Si vous avez une tâche que quelqu'un refait à la main toutes les semaines — parlons-en.
-
-<br/>
-
-<a href="https://gavrochesolutions.fr">
-  <img src="https://img.shields.io/badge/Gavroche%20Solutions-0F172A?style=for-the-badge&logo=firefoxbrowser&logoColor=3B82F6" />
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/florian-monnier">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:contact@fmonnier.fr">
-  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=maildotru&logoColor=3B82F6" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Walpole13">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=E5E7EB" />
-</a>
-
-<br/><br/>
-
-</div>
-
-<!-- Vague de pied de page -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:1E3A5F&height=120&section=footer" width="100%" alt="footer"/>
+<img src="assets/footer.svg" width="100%" alt="Gavroche Solutions. gavrochesolutions.fr, Aix-Marseille."/>
