@@ -32,9 +32,9 @@ Nous intervenons en priorité auprès des professions du droit : avocats, notair
 
 ## <img src="assets/icon-briefcase.svg" width="30" align="top" alt=""/>&nbsp;Études de cas
 
-<img src="assets/casestudy-synergie.svg" width="100%" alt="Synergie Tools, pour Synergie Huissiers 13, l'étude de commissaires de justice la plus importante de la Région Sud : boîte à outils web interne. Outils PDF, annuaire clients, compétence territoriale, relances, administration. FastAPI + React, auto-hébergé."/>
+<a href="https://www.synergie-huissiers-13.fr/"><img src="assets/casestudy-synergie.svg" width="100%" alt="Synergie Tools, pour Synergie Huissiers 13, l'étude de commissaires de justice la plus importante de la Région Sud : boîte à outils web interne. Outils PDF, annuaire clients, compétence territoriale, relances, administration. FastAPI + React, auto-hébergé."/></a>
 
-<img src="assets/casestudy-leolagrange.svg" width="100%" alt="Outil de recrutement pour Léo Lagrange, en production : gestion des candidatures, entretiens et planning, tableau de bord. Développé en collaboration avec Kayaji."/>
+<a href="https://www.leolagrange.org/"><img src="assets/casestudy-leolagrange.svg" width="100%" alt="Outil de recrutement pour Léo Lagrange, en production : gestion des candidatures, entretiens et planning, tableau de bord. Développé en collaboration avec Kayaji."/></a>
 
 <sub>L'essentiel de notre travail est réalisé sous contrat, dans des dépôts privés. Code et démonstrations présentés en entretien.</sub>
 
