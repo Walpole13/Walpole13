@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 120" width="960" height="120" role="img" aria-label="Droit, code, automatisation">
+<defs>
+  <linearGradient id="gBlue" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1D4ED8"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+  <linearGradient id="gAmber" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B45309"/><stop offset="1" stop-color="#FBBF24"/></linearGradient>
+  <linearGradient id="gGreen" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#15803D"/><stop offset="1" stop-color="#4ADE80"/></linearGradient>
+  <linearGradient id="gCard" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0F172A"/><stop offset="1" stop-color="#0B1220"/></linearGradient>
+  <linearGradient id="gShine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <linearGradient id="gLine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3B82F6" stop-opacity="0"/><stop offset=".5" stop-color="#3B82F6"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></linearGradient>
+  <radialGradient id="gGlow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#3B82F6" stop-opacity=".55"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
+  <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="6"/></filter>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#3B82F6" stroke-opacity=".06"/></pattern>
+</defs>
+<rect x="20.0" y="27.0" width="280" height="66" rx="33" fill="url(#gCard)" stroke="#1E293B"/>
+<circle cx="58.0" cy="60.0" r="22" fill="none" stroke="#3B82F6" stroke-opacity=".5"><animate attributeName="r" values="22;32;22" dur="3.3s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".5;0;.5" dur="3.3s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="58.0" cy="60.0" r="22" fill="#0F172A" stroke="#3B82F6" stroke-width="1.5"/>
+<g transform="translate(46.0,48.0) scale(1.000)" fill="none" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"/><path d="m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"/><path d="M7 21h10"/><path d="M12 3v18"/><path d="M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2"/></g>
+<text x="92.0" y="56.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#E2E8F0">Droit</text>
+<text x="92.0" y="75.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#94A3B8" letter-spacing=".6">diplôme · RGPD</text>
+<path d="M306.0 60.0H334.0" stroke="#3B82F6" stroke-opacity=".6" stroke-width="1.5" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="1.2s" repeatCount="indefinite"/></path>
+<rect x="340.0" y="27.0" width="280" height="66" rx="33" fill="url(#gCard)" stroke="#1E293B"/>
+<circle cx="378.0" cy="60.0" r="22" fill="none" stroke="#3B82F6" stroke-opacity=".5"><animate attributeName="r" values="22;32;22" dur="3.3s" begin="1.1s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".5;0;.5" dur="3.3s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="378.0" cy="60.0" r="22" fill="#0F172A" stroke="#3B82F6" stroke-width="1.5"/>
+<g transform="translate(366.0,48.0) scale(1.000)" fill="none" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m16 18 6-6-6-6"/><path d="m8 6-6 6 6 6"/></g>
+<text x="412.0" y="56.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#E2E8F0">Code</text>
+<text x="412.0" y="75.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#94A3B8" letter-spacing=".6">42 Marseille</text>
+<path d="M626.0 60.0H654.0" stroke="#3B82F6" stroke-opacity=".6" stroke-width="1.5" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="1.2s" repeatCount="indefinite"/></path>
+<rect x="660.0" y="27.0" width="280" height="66" rx="33" fill="url(#gCard)" stroke="#1E293B"/>
+<circle cx="698.0" cy="60.0" r="22" fill="none" stroke="#3B82F6" stroke-opacity=".5"><animate attributeName="r" values="22;32;22" dur="3.3s" begin="2.2s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".5;0;.5" dur="3.3s" begin="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="698.0" cy="60.0" r="22" fill="#0F172A" stroke="#3B82F6" stroke-width="1.5"/>
+<g transform="translate(686.0,48.0) scale(1.000)" fill="none" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20a8 8 0 1 0 0-16 8 8 0 0 0 0 16Z"/><path d="M12 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"/><path d="M12 2v2"/><path d="M12 22v-2"/><path d="m17 20.66-1-1.73"/><path d="M11 10.27 7 3.34"/><path d="m20.66 17-1.73-1"/><path d="m3.34 7 1.73 1"/><path d="M14 12h8"/><path d="M2 12h2"/><path d="m20.66 7-1.73 1"/><path d="m3.34 17 1.73-1"/><path d="m17 3.34-1 1.73"/><path d="m11 13.73-4 6.93"/></g>
+<text x="732.0" y="56.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#E2E8F0">Automatisation</text>
+<text x="732.0" y="75.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#94A3B8" letter-spacing=".6">Gavroche Solutions</text>
+</svg>

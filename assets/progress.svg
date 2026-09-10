@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 324" width="960" height="324" role="img" aria-label="En ce moment">
+<defs>
+  <linearGradient id="gBlue" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1D4ED8"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+  <linearGradient id="gAmber" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B45309"/><stop offset="1" stop-color="#FBBF24"/></linearGradient>
+  <linearGradient id="gGreen" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#15803D"/><stop offset="1" stop-color="#4ADE80"/></linearGradient>
+  <linearGradient id="gCard" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0F172A"/><stop offset="1" stop-color="#0B1220"/></linearGradient>
+  <linearGradient id="gShine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <linearGradient id="gLine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3B82F6" stop-opacity="0"/><stop offset=".5" stop-color="#3B82F6"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></linearGradient>
+  <radialGradient id="gGlow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#3B82F6" stop-opacity=".55"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
+  <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="6"/></filter>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#3B82F6" stroke-opacity=".06"/></pattern>
+</defs>
+<style>.grow{transform-origin:440px 0;transform:scaleX(1);animation:grow 1.4s cubic-bezier(.22,1,.36,1) both}@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}</style>
+<rect width="960" height="324" rx="18" fill="url(#gCard)" stroke="#1E293B"/>
+<rect width="960" height="324" rx="18" fill="url(#grid)"/>
+<rect x="28" y="32.0" width="36" height="36" rx="10" fill="#0F172A" stroke="#1E293B"/>
+<g transform="translate(34.0,38.0) scale(1.000)" fill="none" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 22h18"/><path d="M6 18v-7"/><path d="M10 18v-7"/><path d="M14 18v-7"/><path d="M18 18v-7"/><path d="M12 2 20 7H4z"/></g>
+<text x="80" y="47.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#E2E8F0">Gavroche Solutions</text>
+<text x="80" y="65.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#94A3B8">entretiens terrain, cadrage de l&#x27;offre</text>
+<rect x="440" y="45.0" width="420" height="10" rx="5" fill="#111C33"/>
+<rect class="grow" style="animation-delay:0.15s" x="440" y="45.0" width="315" height="10" rx="5" fill="url(#gBlue)"/>
+<clipPath id="c0"><rect x="440" y="45.0" width="315" height="10" rx="5"/></clipPath>
+<rect clip-path="url(#c0)" x="360" y="45.0" width="80" height="10" fill="url(#gShine)"><animate attributeName="x" from="360" to="860" dur="2.8s" begin="1.55s" repeatCount="indefinite"/></rect>
+<text x="932" y="55.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#E2E8F0">75%</text>
+<path d="M28 78H932" stroke="#1E293B" stroke-opacity=".7"/>
+<rect x="28" y="88.0" width="36" height="36" rx="10" fill="#0F172A" stroke="#1E293B"/>
+<g transform="translate(34.0,94.0) scale(1.000)" fill="none" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6"/><path d="M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></g>
+<text x="80" y="103.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#E2E8F0">42 Marseille</text>
+<text x="80" y="121.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#94A3B8">C, algorithmique, bas niveau</text>
+<rect x="440" y="101.0" width="420" height="10" rx="5" fill="#111C33"/>
+<rect class="grow" style="animation-delay:0.33s" x="440" y="101.0" width="357" height="10" rx="5" fill="url(#gBlue)"/>
+<clipPath id="c1"><rect x="440" y="101.0" width="357" height="10" rx="5"/></clipPath>
+<rect clip-path="url(#c1)" x="360" y="101.0" width="80" height="10" fill="url(#gShine)"><animate attributeName="x" from="360" to="860" dur="2.8s" begin="1.73s" repeatCount="indefinite"/></rect>
+<text x="932" y="111.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#E2E8F0">85%</text>
+<path d="M28 134H932" stroke="#1E293B" stroke-opacity=".7"/>
+<rect x="28" y="144.0" width="36" height="36" rx="10" fill="#0F172A" stroke="#1E293B"/>
+<g transform="translate(34.0,150.0) scale(1.000)" fill="none" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></g>
+<text x="80" y="159.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#E2E8F0">Applications métiers</text>
+<text x="80" y="177.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#94A3B8">développement web sur mesure</text>
+<rect x="440" y="157.0" width="420" height="10" rx="5" fill="#111C33"/>
+<rect class="grow" style="animation-delay:0.51s" x="440" y="157.0" width="273" height="10" rx="5" fill="url(#gBlue)"/>
+<clipPath id="c2"><rect x="440" y="157.0" width="273" height="10" rx="5"/></clipPath>
+<rect clip-path="url(#c2)" x="360" y="157.0" width="80" height="10" fill="url(#gShine)"><animate attributeName="x" from="360" to="860" dur="2.8s" begin="1.91s" repeatCount="indefinite"/></rect>
+<text x="932" y="167.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#E2E8F0">65%</text>
+<path d="M28 190H932" stroke="#1E293B" stroke-opacity=".7"/>
+<rect x="28" y="200.0" width="36" height="36" rx="10" fill="#0F172A" stroke="#1E293B"/>
+<g transform="translate(34.0,206.0) scale(1.000)" fill="none" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/></g>
+<text x="80" y="215.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#E2E8F0">Certification DPO / RGPD</text>
+<text x="80" y="233.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#94A3B8">parcours professionnel</text>
+<rect x="440" y="213.0" width="420" height="10" rx="5" fill="#111C33"/>
+<rect class="grow" style="animation-delay:0.69s" x="440" y="213.0" width="189" height="10" rx="5" fill="url(#gAmber)"/>
+<clipPath id="c3"><rect x="440" y="213.0" width="189" height="10" rx="5"/></clipPath>
+<rect clip-path="url(#c3)" x="360" y="213.0" width="80" height="10" fill="url(#gShine)"><animate attributeName="x" from="360" to="860" dur="2.8s" begin="2.09s" repeatCount="indefinite"/></rect>
+<text x="932" y="223.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#E2E8F0">45%</text>
+<path d="M28 246H932" stroke="#1E293B" stroke-opacity=".7"/>
+<rect x="28" y="256.0" width="36" height="36" rx="10" fill="#0F172A" stroke="#1E293B"/>
+<g transform="translate(34.0,262.0) scale(1.000)" fill="none" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></g>
+<text x="80" y="271.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#E2E8F0">DevSecOps</text>
+<text x="80" y="289.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#94A3B8">durcissement, sécurité d&#x27;infrastructure</text>
+<rect x="440" y="269.0" width="420" height="10" rx="5" fill="#111C33"/>
+<rect class="grow" style="animation-delay:0.87s" x="440" y="269.0" width="252" height="10" rx="5" fill="url(#gGreen)"/>
+<clipPath id="c4"><rect x="440" y="269.0" width="252" height="10" rx="5"/></clipPath>
+<rect clip-path="url(#c4)" x="360" y="269.0" width="80" height="10" fill="url(#gShine)"><animate attributeName="x" from="360" to="860" dur="2.8s" begin="2.27s" repeatCount="indefinite"/></rect>
+<text x="932" y="279.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#E2E8F0">60%</text>
+</svg>
