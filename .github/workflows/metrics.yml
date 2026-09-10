@@ -1,0 +1,74 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  Statistiques de profil incluant les dépôts PRIVÉS
+#
+#  Pourquoi : les widgets publics (github-readme-stats & co.) ne voient que les
+#  dépôts publics et tournent sur un quota partagé saturé. Cette Action génère
+#  les images localement, avec un jeton personnel, et les commite dans /assets.
+#
+#  ACTIVATION (rien ne tourne avant) :
+#   1. Créer un PAT classique sur https://github.com/settings/tokens
+#      scopes : repo  +  read:user        (ne rien cocher de plus)
+#   2. Repo → Settings → Secrets and variables → Actions
+#        · onglet Secrets   → New secret   : METRICS_TOKEN = <le PAT>
+#        · onglet Variables → New variable : METRICS_ENABLED = true
+#   3. Onglet Actions → « Metrics » → Run workflow (premier lancement manuel)
+#   4. Décommenter le bloc correspondant dans README.md (section « Activité »)
+#
+#  DÉSACTIVATION : passer METRICS_ENABLED à false, ou supprimer ce fichier.
+# ─────────────────────────────────────────────────────────────────────────────
+name: Metrics
+
+on:
+  schedule:
+    # Tous les jours à 04h17 UTC — heure creuse, hors des pics de quota.
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    # Tant que la variable n'est pas posée, le job est sauté : aucun run rouge.
+    if: vars.METRICS_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      # Vue d'ensemble : langages (dépôts privés inclus) + activité récente.
+      - name: Vue d'ensemble
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics.svg
+          user: Walpole13
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Europe/Paris
+          config_output: svg
+          output_action: commit
+          committer_branch: main
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, dockerfile, makefile, shell
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          # La clé du problème : compter aussi le code des dépôts privés.
+          repositories_affiliations: owner, collaborator
+          plugin_lines: yes
+
+      # Carte compacte « langages », pensée pour être posée à côté du streak.
+      - name: Langages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics-langages.svg
+          user: Walpole13
+          base: ""
+          config_timezone: Europe/Paris
+          config_output: svg
+          output_action: commit
+          committer_branch: main
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, dockerfile, makefile, shell
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          repositories_affiliations: owner, collaborator
