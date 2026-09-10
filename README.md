@@ -26,15 +26,15 @@ Le point de départ est toujours le même : quelqu'un passe deux heures par sema
 
 Nous intervenons en priorité auprès des professions du droit : avocats, notaires, commissaires de justice, mandataires judiciaires. Un secteur où le secret professionnel, les délais de forclusion et la traçabilité ne sont pas des options de configuration.
 
-**Reprendre la main sur votre infrastructure.** Nous accompagnons la transition vers Linux et les solutions open source françaises et européennes : postes de travail Linux, Nextcloud pour le stockage et le partage, OnlyOffice ou Collabora pour la bureautique. Hébergement sur site, chez un hébergeur français ou européen, ou sur un serveur dédié que nous administrons. Vos données restent sous droit européen, conformes au RGPD.
+**Reprendre la main sur votre infrastructure.** Nous accompagnons la transition vers Linux et les solutions open source françaises et européennes : postes de travail Linux, Nextcloud pour le stockage et le partage, OnlyOffice ou Collabora pour la bureautique, Mailcow ou Zimbra pour la messagerie, CRM et outils de gestion open source. Hébergement sur site, chez un hébergeur français ou européen, ou sur un serveur dédié que nous administrons. Vos données restent sous droit européen, conformes au RGPD.
 
 <br/>
 
 ## <img src="assets/icon-briefcase.svg" width="30" align="top" alt=""/>&nbsp;Études de cas
 
-<img src="assets/casestudy-synergie.svg" width="100%" alt="Synergie Tools, pour Synergie Huissiers 13 : boîte à outils web interne de l'étude. Outils PDF, annuaire clients, compétence territoriale, relances, administration. FastAPI + React, auto-hébergé."/>
+<img src="assets/casestudy-synergie.svg" width="100%" alt="Synergie Tools, pour Synergie Huissiers 13, l'étude de commissaires de justice la plus importante de la Région Sud : boîte à outils web interne. Outils PDF, annuaire clients, compétence territoriale, relances, administration. FastAPI + React, auto-hébergé."/>
 
-<img src="assets/casestudy-leolagrange.svg" width="100%" alt="Outil de recrutement pour Léo Lagrange, en production. Développé en collaboration avec Kayaji."/>
+<img src="assets/casestudy-leolagrange.svg" width="100%" alt="Outil de recrutement pour Léo Lagrange, en production : gestion des candidatures, entretiens et planning, tableau de bord. Développé en collaboration avec Kayaji."/>
 
 <sub>L'essentiel de notre travail est réalisé sous contrat, dans des dépôts privés. Code et démonstrations présentés en entretien.</sub>
 
@@ -72,7 +72,7 @@ Appliqué à un cabinet, ça donne une règle non négociable : **les données d
 | **Données** | PostgreSQL, SQLite |
 | **Infrastructure** | Debian, Linux, Docker, Nginx, WireGuard |
 | **Sécurité** | Durcissement SSH, CrowdSec, Vaultwarden, AdGuard Home, SPF / DKIM / DMARC |
-| **Open source souverain** | Nextcloud, OnlyOffice / Collabora, postes de travail Linux |
+| **Open source souverain** | Nextcloud, OnlyOffice / Collabora, Mailcow / Zimbra, CRM et outils de gestion, postes de travail Linux |
 | **Intégrations** | Microsoft Graph, Google Apps Script |
 | **Outils** | Git, VS Code |
 
