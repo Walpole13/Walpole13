@@ -18,9 +18,9 @@
 
 <!-- Badges — identité en un coup d'œil -->
 <img src="https://img.shields.io/badge/Fondateur-Gavroche%20Solutions-1D4ED8?style=flat-square&labelColor=020617" />
-<img src="https://img.shields.io/badge/Formation-Droit%20du%20num%C3%A9rique%20%2F%20RGPD-0F172A?style=flat-square&labelColor=020617" />
-<img src="https://img.shields.io/badge/%C3%89cole-42%20Marseille-0F172A?style=flat-square&logo=42&logoColor=white&labelColor=020617" />
-<img src="https://img.shields.io/badge/Focus-D%C3%A9veloppement%20sur%20mesure%20%C2%B7%20Automatisation-1D4ED8?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/Juriste-droit%20du%20num%C3%A9rique%20%C2%B7%20RGPD-0F172A?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/Focus-professions%20du%20droit-0F172A?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/Bas%C3%A9%20%C3%A0-Marseille%20%C2%B7%20partout%20en%20France-1D4ED8?style=flat-square&labelColor=020617" />
 
 <br/><br/>
 
@@ -40,7 +40,9 @@ Je développe des logiciels sur mesure et j'automatise des processus. Concrètem
 
 Le point de départ est toujours le même — quelqu'un passe deux heures par semaine à recopier des données d'un outil vers un autre, ou à reconstruire le même document à la main. Le livrable, c'est le temps récupéré.
 
-J'ai un **diplôme de droit, spécialisation droit du numérique et RGPD**, et je suis étudiant à **42 Marseille**. Cette double formation n'est pas décorative : elle me sert à traiter la confidentialité, la traçabilité et la conservation des données comme des contraintes de conception, dès la première ligne de spec.
+Je suis **juriste de formation**, tourné vers le **droit du numérique et le RGPD**, et **développeur**. Cette double compétence n'est pas décorative : elle me sert à traiter la confidentialité, la traçabilité et la conservation des données comme des contraintes de conception, dès la première ligne de spec.
+
+Aujourd'hui, je construis **[Gavroche](https://gavrochesolutions.fr)**, un cabinet d'ingénierie numérique pour les professions du droit.
 
 <br/>
 
@@ -50,7 +52,8 @@ J'ai un **diplôme de droit, spécialisation droit du numérique et RGPD**, et j
 
 ## &nbsp;Gavroche Solutions
 
-**[gavrochesolutions.fr](https://gavrochesolutions.fr)** — développement et automatisation sur mesure, région Aix-Marseille.
+**[gavrochesolutions.fr](https://gavrochesolutions.fr)** — ingénierie numérique pour les professions du droit. Basé à Marseille, partout en France.<br/>
+Sur GitHub : **[@Gavroche-Solutions](https://github.com/Gavroche-Solutions)**.
 
 <div align="center">
 <br/>
@@ -176,7 +179,7 @@ Appliqué à un cabinet, ça donne une règle non négociable : **les données d
 | **Langages** | ![C](https://img.shields.io/badge/C-020617?style=flat-square&logo=c&logoColor=A8B9CC) ![Python](https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=3776AB) ![Bash](https://img.shields.io/badge/Bash-020617?style=flat-square&logo=gnubash&logoColor=4EAA25) ![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript&logoColor=F7DF1E) ![SQL](https://img.shields.io/badge/SQL-020617?style=flat-square&logo=postgresql&logoColor=4169E1) |
 | **Web & applications** | ![Node.js](https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs&logoColor=339933) ![Nginx](https://img.shields.io/badge/Nginx-020617?style=flat-square&logo=nginx&logoColor=009639) ![Docker](https://img.shields.io/badge/Docker-020617?style=flat-square&logo=docker&logoColor=2496ED) |
 | **Bases de données** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=4169E1) ![SQLite](https://img.shields.io/badge/SQLite-020617?style=flat-square&logo=sqlite&logoColor=003B57) |
-| **Intégrations & API** | ![REST](https://img.shields.io/badge/API%20REST-020617?style=flat-square) ![Webhooks](https://img.shields.io/badge/Webhooks-020617?style=flat-square) ![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-020617?style=flat-square&logo=microsoft&logoColor=00A4EF) ![Apps Script](https://img.shields.io/badge/Apps%20Script-020617?style=flat-square&logo=google&logoColor=4285F4) |
+| **Intégrations & API** | ![REST](https://img.shields.io/badge/API%20REST-020617?style=flat-square) ![Webhooks](https://img.shields.io/badge/Webhooks-020617?style=flat-square) ![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-020617?style=flat-square) ![Apps Script](https://img.shields.io/badge/Apps%20Script-020617?style=flat-square&logo=google&logoColor=4285F4) |
 | **Infrastructure** | ![Debian](https://img.shields.io/badge/Debian-020617?style=flat-square&logo=debian&logoColor=A81D33) ![WireGuard](https://img.shields.io/badge/WireGuard-020617?style=flat-square&logo=wireguard&logoColor=88171A) ![Linux](https://img.shields.io/badge/Linux-020617?style=flat-square&logo=linux&logoColor=FCC624) |
 | **Sécurité** | ![CrowdSec](https://img.shields.io/badge/CrowdSec-020617?style=flat-square) ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-020617?style=flat-square) ![AdGuard](https://img.shields.io/badge/AdGuard-020617?style=flat-square&logo=adguard&logoColor=68BC71) ![DMARC](https://img.shields.io/badge/SPF%20·%20DKIM%20·%20DMARC-020617?style=flat-square) |
 | **Outils** | ![Git](https://img.shields.io/badge/Git-020617?style=flat-square&logo=git&logoColor=F05032) ![VS Code](https://img.shields.io/badge/VS%20Code-020617?style=flat-square&logo=visualstudiocode&logoColor=007ACC) |
@@ -224,10 +227,6 @@ Appliqué à un cabinet, ça donne une règle non négociable : **les données d
 <td>█████████░░░ 75%</td>
 </tr>
 <tr>
-<td>🎓 <b>42 Marseille</b> — C, algorithmique, bas niveau</td>
-<td>██████████░░ 85%</td>
-</tr>
-<tr>
 <td>🧩 <b>Applications métiers</b> — développement web sur mesure</td>
 <td>████████░░░░ 65%</td>
 </tr>
@@ -261,16 +260,16 @@ Ouvert aux collaborations autour du **développement sur mesure**, de l'**automa
   <img src="https://img.shields.io/badge/Gavroche%20Solutions-0F172A?style=for-the-badge&logo=firefoxbrowser&logoColor=3B82F6" />
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/florian-monnier">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<a href="https://www.linkedin.com/in/florian-monnier13/">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:contact@fmonnier.fr">
-  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=maildotru&logoColor=3B82F6" />
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Walpole13">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=E5E7EB" />
+<a href="https://github.com/Gavroche-Solutions">
+  <img src="https://img.shields.io/badge/Gavroche%20sur%20GitHub-0F172A?style=for-the-badge&logo=github&logoColor=E5E7EB" />
 </a>
 
 <br/><br/>
