@@ -40,7 +40,7 @@ Je développe des logiciels sur mesure et j'automatise des processus. Concrètem
 
 Le point de départ est toujours le même — quelqu'un passe deux heures par semaine à recopier des données d'un outil vers un autre, ou à reconstruire le même document à la main. Le livrable, c'est le temps récupéré.
 
-Je suis **juriste de formation**, tourné vers le **droit du numérique et le RGPD**, et **développeur**. Cette double compétence n'est pas décorative : elle me sert à traiter la confidentialité, la traçabilité et la conservation des données comme des contraintes de conception, dès la première ligne de spec.
+Je suis **juriste de formation** (licence de droit, Aix-Marseille Université), tourné vers le **droit du numérique et le RGPD**, et **développeur**. Cette double compétence n'est pas décorative : elle me sert à traiter la confidentialité, la traçabilité et la conservation des données comme des contraintes de conception, dès la première ligne de spec.
 
 Aujourd'hui, je construis **[Gavroche](https://gavrochesolutions.fr)**, un cabinet d'ingénierie numérique pour les professions du droit.
 
@@ -112,8 +112,8 @@ Une spécialisation : les **professions du droit** — avocats, notaires, commis
 <td align="center" width="33%">
 <br/>
 <img src="https://img.shields.io/badge/🖥️-Infrastructure-16A34A?style=for-the-badge&labelColor=020617" /><br/><br/>
-<b>Walpole — serveur autohébergé</b><br/>
-<sub>Debian 12 bare metal · WireGuard<br/>AdGuard Home · Vaultwarden<br/>CrowdSec · SSH durci</sub><br/><br/>
+<b>Infrastructure autohébergée</b><br/>
+<sub>Serveurs dédiés sous Linux<br/>Accès chiffrés · gestion des secrets<br/>Durcissement · détection d'intrusion</sub><br/><br/>
 </td>
 
 </tr>
